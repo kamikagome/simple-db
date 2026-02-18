@@ -3,7 +3,7 @@
 An interactive terminal tool for exploring SQLite databases, inspecting schemas,
 running ad-hoc queries, and exporting data to CSV, JSON, or Parquet.
 
-Built as a learning project while exploring [Claude Code](https://claude.ai/claude-code)
+Built as a learning project while exploring Claude Code
 for data engineering workflows.
 
 ---
